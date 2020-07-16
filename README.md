@@ -1,4 +1,6 @@
 ﻿# Проект 3: Путешествие по России
+ 
+* [Ссылка на макет в Figma](https://romulkins23.github.io/russia-travel/index.html)
 
 ### Обзор
 * Интро
