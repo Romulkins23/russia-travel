@@ -1,0 +1,8 @@
+.place__text {
+  display: flex;
+  flex-direction: column;
+  grid-column-start: 2;
+  grid-row-start: 2;
+  grid-row-end: 3;
+  margin: 0;
+}

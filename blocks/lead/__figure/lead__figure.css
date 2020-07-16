@@ -1,0 +1,8 @@
+.lead__figure {
+  display: flex;
+  flex-direction: column;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 64px;
+  margin-bottom: 8px;
+}

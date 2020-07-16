@@ -1,0 +1,24 @@
+.website_link {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  text-decoration-line: underline;
+  color: #ffffff;
+  margin: 0;
+  word-wrap: break-word;
+}
+
+@media screen and (max-width: 420px) {
+  .website_link {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    text-decoration-line: underline;
+    color: #ffffff;
+    margin: 0;
+    word-wrap: break-word;
+    max-width: 100px;
+  }
+}
