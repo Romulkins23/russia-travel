@@ -11,26 +11,15 @@
 
 @media screen and (max-width: 768px) {
   .places {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
     max-width: 720px;
-    margin-right: auto;
-    margin-left: auto;
     margin-top: 0;
     margin-bottom: 88px;
-    word-wrap: break-word;
   }
 }
 
 @media screen and (max-width: 320px) {
   .places {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
     max-width: 100%;
-    margin-right: auto;
-    margin-left: auto;
     margin-top: 0;
     margin-bottom: 64px;
   }

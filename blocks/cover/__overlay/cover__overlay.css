@@ -9,54 +9,34 @@
 }
 
 .cover__overlay:hover {
-  background: rgba(42, 44, 47, 0.7);
+  background: rgba(42, 44, 47, 0.8);
   transition: 0.5s linear;
 }
 
 @media screen and (max-width: 1024px) {
   .cover__overlay {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    background: rgba(42, 44, 47, 0.3);
     height: 640px;
     max-width: 1024px;
-    text-decoration: none;
   }
 }
 
 @media screen and (max-width: 768px) {
   .cover__overlay {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    background: rgba(42, 44, 47, 0.3);
     height: 480px;
     max-width: 768px;
-    text-decoration: none;
   }
 }
 
 @media screen and (max-width: 420px) {
   .cover__overlay {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    background: rgba(42, 44, 47, 0.3);
     height: 220px;
     max-width: 420px;
-    text-decoration: none;
   }
 }
 
 @media screen and (max-width: 320px) {
   .cover__overlay {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    background: rgba(42, 44, 47, 0.3);
-    height: 320px;
+    height: 200px;
     max-width: 320px;
-    text-decoration: none;
   }
 }

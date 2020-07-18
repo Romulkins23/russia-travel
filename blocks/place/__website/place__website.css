@@ -1,3 +1,6 @@
+@import url(../__website/__link/website__link.css);
+@import url(../__website/__url-heading/website__url-heading.css);
+
 .place__website {
   grid-column: 2;
   display: flex;

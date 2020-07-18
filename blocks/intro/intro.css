@@ -14,9 +14,6 @@
 
 @media screen and (max-width: 1024px) {
   .intro {
-    display: flex;
-    flex-direction: column;
-    justify-content: start;
     max-width: 720px;
     margin: 0 48px;
   }
@@ -24,9 +21,6 @@
 
 @media screen and (max-width: 768px) {
   .intro {
-    display: flex;
-    flex-direction: column;
-    justify-content: start;
     max-width: 720px;
     margin: 0 auto;
   }
@@ -34,8 +28,6 @@
 
 @media screen and (max-width: 320px) {
   .intro {
-    display: flex;
-    flex-direction: column;
     justify-content: start;
     max-width: 288px;
     margin: 0 auto;

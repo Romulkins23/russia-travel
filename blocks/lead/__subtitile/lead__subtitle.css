@@ -14,16 +14,8 @@
 
 @media screen and (max-width: 320px) {
   .lead__subtitle {
-    font-style: normal;
-    font-weight: normal;
     font-size: 16px;
     line-height: 20px;
-    text-align: center;
-    color: #ffffff;
     max-width: 280px;
-    margin-top: 32px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 0;
   }
 }

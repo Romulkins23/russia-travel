@@ -16,19 +16,14 @@
 
 @media screen and (max-width: 1024px) {
   .place {
-    display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: fit-content(152px) fit-content(460px);
     grid-gap: 48px 32px;
-    margin-bottom: 80px;
   }
 }
 
 @media screen and (max-width: 768px) {
   .place {
-    display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: fit-content(152px) fit-content(460px);
     grid-gap: 48px 28px;
     margin-bottom: 72px;
   }

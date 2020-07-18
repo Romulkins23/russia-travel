@@ -37,39 +37,25 @@
 
 @media screen and (max-width: 570px) {
   .lead__title {
-    font-style: normal;
-    font-weight: 900;
     font-size: 56px;
-    margin: 0 auto;
     line-height: 75px;
     max-width: 720px;
-    color: #ffffff;
-    text-align: center;
   }
 }
 
 @media screen and (max-width: 420px) {
   .lead__title {
-    font-style: normal;
-    font-weight: 900;
     font-size: 40px;
-    margin: 0 auto;
     line-height: 44px;
     max-width: 288px;
-    color: #ffffff;
-    text-align: center;
   }
 }
 
 @media screen and (max-width: 320px) {
   .lead__title {
-    font-style: normal;
-    font-weight: 900;
     font-size: 40px;
     margin: 0 16px 0 16px;
     line-height: 44px;
     max-width: 288px;
-    color: #ffffff;
-    text-align: center;
   }
 }
