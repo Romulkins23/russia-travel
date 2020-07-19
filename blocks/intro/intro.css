@@ -21,7 +21,6 @@
 
 @media screen and (max-width: 768px) {
   .intro {
-    max-width: 720px;
     margin: 0 auto;
   }
 }
@@ -30,6 +29,5 @@
   .intro {
     justify-content: start;
     max-width: 288px;
-    margin: 0 auto;
   }
 }

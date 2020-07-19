@@ -14,11 +14,7 @@
 
 @media screen and (max-width: 320px) {
   .header {
-    display: flex;
     margin: 0 16px 0 16px;
     padding-top: 16px;
-    max-width: 100%;
-    flex-direction: row;
-    justify-content: space-between;
   }
 }
