@@ -1,6 +1,4 @@
 ﻿# Проект 3: Путешествие по России
- 
-* [Ссылка на work №3](https://romulkins23.github.io/russia-travel/index.html)
 
 ### Обзор
 * Интро
